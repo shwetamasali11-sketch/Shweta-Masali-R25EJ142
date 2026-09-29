@@ -2,3 +2,6 @@ My name is Shweta Masali. I am studying Computer Science Engineering. This repos
 Learning Java
 Interested in web development
 Goal: contribute to open source
+I am working on a portfolio project to showcase my programming skills and GitHub learning activities.
+Project 1
+Project 2
